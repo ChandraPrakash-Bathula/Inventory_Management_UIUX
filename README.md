@@ -1,1 +1,1 @@
-# Inventory_Management_UIUX
+# UI/UX Figma Design Project for Inventory Management
